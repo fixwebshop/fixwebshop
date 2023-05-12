@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fixwebshop
+- 👋 Hi, I’m Mr.Fix
 - 👀 I’m interested in web design and developement
 - 🌱 I’m currently learning interactive animation
 - 💞️ I’m looking to collaborate on graphic design with coding skills to create interactive animations
